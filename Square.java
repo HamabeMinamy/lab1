@@ -8,7 +8,7 @@ import java.util.Scanner;
  * XUE Zining 20093963d
  * @version (a version number or a date)
  */
-public class Square extends Shape
+public class Square extends Shape implements Drawable
 {
     private float length;
     public Square()

@@ -6,7 +6,7 @@ import java.util.Scanner;
  * XUE Zining 20093963d
  * @version (a version number or a date)
  */
-public class Rectangle extends Shape
+public class Rectangle extends Shape implements Drawable
 {
     private float length;
     private float width;

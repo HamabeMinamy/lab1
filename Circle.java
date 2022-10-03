@@ -13,7 +13,7 @@ import java.awt.Rectangle;
 import java.awt.geom.Ellipse2D;
 import java.util.Scanner;
 
-public class Circle extends Shape
+public class Circle extends Shape implements Drawable
 {
     private float radius;
     public Circle(){
