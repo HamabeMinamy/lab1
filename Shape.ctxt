@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Shape
+comment0.text=\r\n\ Abstract\ class\ Shape\ -\ write\ a\ description\ of\ the\ class\ here\r\n\r\n\ LIU\ Taotao\ 20084489d\r\n\ XUE\ Zining\ 20093963d\r\n\ @version\ (version\ number\ or\ date\ here)\r\n
+comment1.params=
+comment1.target=void\ readShape()
+comment2.params=
+comment2.target=void\ computeArea()
+comment3.params=
+comment3.target=void\ computePerimeter()
+comment4.params=
+comment4.target=void\ displayShape()
+comment5.params=input
+comment5.target=java.lang.Float\ tryParseFloat(java.lang.String)
+comment5.text=\r\n\ This\ method\ is\ used\ to\ test\ the\ input\ is\ a\ Float\ or\ not\r\n
+numComments=6

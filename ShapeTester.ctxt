@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ShapeTester
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ShapeTester\ here.\r\n\ LIU\ Taotao\ 20084489d\r\n\ Xue\ Zining\ 20093963d\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ displayOptions()
+comment2.text=\r\n\ This\ method\ is\ used\ to\ display\ the\ options\ which\ users\ can\ input\r\n
+comment3.params=input
+comment3.target=java.lang.Float\ tryParseFloat(java.lang.String)
+comment3.text=\r\n\ This\ method\ is\ used\ to\ test\ the\ input\ is\ a\ Float\ or\ not\r\n
+comment4.params=
+comment4.target=boolean\ menu()
+comment4.text=\r\n\ This\ method\ is\ used\ to\ create\ a\ menu\r\n
+numComments=5
